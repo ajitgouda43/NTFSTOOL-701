@@ -5,4 +5,8 @@ public class NetBankingService {
 		//customer money transfer details
 		return amt+"money transfer from "+srcAcc+"to "+desAcc;
 	}
+	public String doPaymentUsingIMPS() {
+		
+	}
+
 }
